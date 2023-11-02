@@ -11,3 +11,5 @@ https://luxoft.udemy.com/course/apache-spark-3-databricks-certified-associate-de
 https://luxoft.udemy.com/course/aws-data-analytics/
 
 https://luxoft.udemy.com/course/aws-machine-learning/
+
+https://www.examtopics.com/exams/databricks/
